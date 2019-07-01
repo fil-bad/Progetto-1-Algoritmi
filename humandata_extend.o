@@ -1,0 +1,68 @@
+less
+AVL creati. Dimensioni:
+AVL chiavi minori: 10 nodi.
+AVL chiavi maggiori: 100000 nodi.
+Tempo concatenation_dummy: 0.00032329559326171875 secondi.
+Tempo concatenation: 9.417533874511719e-05 secondi.
+AVL creati. Dimensioni:
+AVL chiavi minori: 100 nodi.
+AVL chiavi maggiori: 100000 nodi.
+Tempo concatenation_dummy: 0.003191709518432617 secondi.
+Tempo concatenation: 6.651878356933594e-05 secondi.
+AVL creati. Dimensioni:
+AVL chiavi minori: 1000 nodi.
+AVL chiavi maggiori: 100000 nodi.
+Tempo concatenation_dummy: 0.033133506774902344 secondi.
+Tempo concatenation: 7.319450378417969e-05 secondi.
+AVL creati. Dimensioni:
+AVL chiavi minori: 10000 nodi.
+AVL chiavi maggiori: 100000 nodi.
+Tempo concatenation_dummy: 0.29059910774230957 secondi.
+Tempo concatenation: 9.059906005859375e-05 secondi.
+equal
+AVL creati. Dimensioni:
+AVL chiavi minori: 10 nodi.
+AVL chiavi maggiori: 10 nodi.
+Tempo concatenation_dummy: 0.0002048015594482422 secondi.
+Tempo concatenation: 2.86102294921875e-05 secondi.
+AVL creati. Dimensioni:
+AVL chiavi minori: 100 nodi.
+AVL chiavi maggiori: 100 nodi.
+Tempo concatenation_dummy: 0.0024137496948242188 secondi.
+Tempo concatenation: 4.887580871582031e-05 secondi.
+AVL creati. Dimensioni:
+AVL chiavi minori: 1000 nodi.
+AVL chiavi maggiori: 1000 nodi.
+Tempo concatenation_dummy: 0.026884078979492188 secondi.
+Tempo concatenation: 4.9114227294921875e-05 secondi.
+AVL creati. Dimensioni:
+AVL chiavi minori: 10000 nodi.
+AVL chiavi maggiori: 10000 nodi.
+Tempo concatenation_dummy: 0.2591385841369629 secondi.
+Tempo concatenation: 6.222724914550781e-05 secondi.
+AVL creati. Dimensioni:
+AVL chiavi minori: 100000 nodi.
+AVL chiavi maggiori: 100000 nodi.
+Tempo concatenation_dummy: 3.8519411087036133 secondi.
+Tempo concatenation: 0.00017642974853515625 secondi.
+more
+AVL creati. Dimensioni:
+AVL chiavi minori: 100000 nodi.
+AVL chiavi maggiori: 10 nodi.
+Tempo concatenation_dummy: 0.0003724098205566406 secondi.
+Tempo concatenation: 7.152557373046875e-05 secondi.
+AVL creati. Dimensioni:
+AVL chiavi minori: 100000 nodi.
+AVL chiavi maggiori: 100 nodi.
+Tempo concatenation_dummy: 0.0030090808868408203 secondi.
+Tempo concatenation: 7.915496826171875e-05 secondi.
+AVL creati. Dimensioni:
+AVL chiavi minori: 100000 nodi.
+AVL chiavi maggiori: 1000 nodi.
+Tempo concatenation_dummy: 0.03113532066345215 secondi.
+Tempo concatenation: 7.605552673339844e-05 secondi.
+AVL creati. Dimensioni:
+AVL chiavi minori: 100000 nodi.
+AVL chiavi maggiori: 10000 nodi.
+Tempo concatenation_dummy: 0.2824993133544922 secondi.
+Tempo concatenation: 8.893013000488281e-05 secondi.
